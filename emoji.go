@@ -1,7 +1,5 @@
 package emoji
 
-// emoji table was taken from https://apps.timwhitlock.info/emoji/tables/unicode
-
 type Emoji string
 
 const (
